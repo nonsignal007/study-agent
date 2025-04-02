@@ -1,0 +1,7 @@
+{
+    "dependencies" : ["agent"],
+    "graphs" : {
+        "load" : "agent/agnet.py:app"
+    },
+    "env": ".env"
+}
